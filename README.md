@@ -3,4 +3,4 @@
 
 ## Live Demo
 
-[VIEW DEMO](https://patriciamasioni.github.io/Cupcake-recepy)
+[VIEW DEMO](https://patriciamasioni.github.io/Forever-in-progress_1/)
