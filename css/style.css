@@ -1,0 +1,95 @@
+/************************************************************
+Theme name : Responsive template
+Description:
+Author: Patricia Masioni
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0
+Tags: P5, personal project.
+**************************************************************
+Table of Contents:
+  0. GLOBAL
+  1. SECTION_INFO
+  2. SECTION_INFO
+**************************************************************/
+
+
+/************************************************
+0.	GLOBAL
+************************************************/
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/************************************************
+0.	GLOBAL
+************************************************/
+
+header{
+  width: 100%;
+  height: 10vh;
+  background-color: aliceblue;
+}
+
+ul{
+  width: 100%;
+  height: 10vh;
+  background-color: aliceblue;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+
+}
+
+li{
+  text-decoration: none;
+}
+
+ #main{
+   width: 100%;
+   height: 100vh;
+   background-color: crimson;
+   display: flex;
+   flex-direction: row;
+   position: relative;
+   color: white;
+ }
+
+.content{
+  width: 30%;
+  height: 30%;
+  background-color: black;
+  margin: 0.5rem;
+  position:absolute;
+  bottom:-20px;
+  left:0;
+
+}
+
+#content{
+  width: 50%;
+  height: 50%;
+  background-color: blue;
+  margin: 0.5rem;
+  position: absolute;
+  top: -2rem;
+  right: 2rem;
+}
+
+footer{
+  width: 100%;
+  height: 10vh;
+  background-color: aliceblue;
+/*
+  position: fixed;
+  bottom: 0;
+*/
+}
