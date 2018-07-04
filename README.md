@@ -1,7 +1,6 @@
-# Cupcake-recepy
-A basic cupcake recepy page
+# Forever in progress_1
 
 
 ## Live Demo
 
-[VIEW DEMO](https://patriciamasioni.github.io/Barbershop/)
+[VIEW DEMO](https://patriciamasioni.github.io/Cupcake-recepy)
